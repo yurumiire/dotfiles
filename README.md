@@ -1,1 +1,5 @@
 # dotfiles
+
+##  Mac
+
+##  Windows
